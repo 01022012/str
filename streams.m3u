@@ -1,256 +1,133 @@
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1860.png",BBC News
-http://vvn.neoredi.com/iptv/ch1860?code=113141163091679&key=61358
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1800.png",BBC1
-http://vvn.neoredi.com/iptv/ch1800?code=113141163091679&key=16214
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1801.png",BBC2
-http://vvn.neoredi.com/iptv/ch1801?code=113141163091679&key=20497
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1802.png",CBBC
-http://vvn.neoredi.com/iptv/ch1802?code=113141163091679&key=55673
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1803.png",BBC4
-http://vvn.neoredi.com/iptv/ch1803?code=113141163091679&key=17298
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1805.png",ITV 1 UK
-http://vvn.neoredi.com/iptv/ch1805?code=113141163091679&key=31955
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1806.png",ITV 2 UK
-http://vvn.neoredi.com/iptv/ch1806?code=113141163091679&key=10197
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1946.png",Itv 3 UK
-http://vvn.neoredi.com/iptv/ch1946?code=113141163091679&key=49054
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1808.png",ITV 4 UK
-http://vvn.neoredi.com/iptv/ch1808?code=113141163091679&key=56500
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1804.png",ITV BE
-http://vvn.neoredi.com/iptv/ch1804?code=113141163091679&key=44642
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1807.png",C ITV
-http://vvn.neoredi.com/iptv/ch1807?code=113141163091679&key=33625
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1898.png",CNN UK
-http://vvn.neoredi.com/iptv/ch1898?code=113141163091679&key=22042
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1937.png",France24 UK
-http://vvn.neoredi.com/iptv/ch1937?code=113141163091679&key=39617
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1845.png",Live360_uk
-http://vvn.neoredi.com/iptv/ch1845?code=113141163091679&key=41329
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1843.png",NHK World
-http://vvn.neoredi.com/iptv/ch1843?code=113141163091679&key=19056
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1824.png",RT. UK
-http://vvn.neoredi.com/iptv/ch1824?code=113141163091679&key=29655
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1897.png",TRT World UK
-http://vvn.neoredi.com/iptv/ch1897?code=113141163091679&key=32116
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1816.png",STV UK HD
-http://vvn.neoredi.com/iptv/ch1816?code=113141163091679&key=63617
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1892.png",UTV UK HD
-http://vvn.neoredi.com/iptv/ch1892?code=113141163091679&key=42345
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/911.png",Channel 5 UK
-http://vvn.neoredi.com/iptv/ch911?code=113141163091679&key=41838
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1938.png",5 USA UK
-http://vvn.neoredi.com/iptv/ch1938?code=113141163091679&key=64862
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1894.png",5 Stars UK
-http://vvn.neoredi.com/iptv/ch1894?code=113141163091679&key=52278
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/910.png",Channel 4 UK
-http://vvn.neoredi.com/iptv/ch910?code=113141163091679&key=56909
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1891.png",Film 4 UK
-http://vvn.neoredi.com/iptv/ch1891?code=113141163091679&key=43873
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1934.png",4 Music UK
-http://vvn.neoredi.com/iptv/ch1934?code=113141163091679&key=63744
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1813.png",E-4 UK
-http://vvn.neoredi.com/iptv/ch1813?code=113141163091679&key=13468
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1812.png",4 Seven UK
-http://vvn.neoredi.com/iptv/ch1812?code=113141163091679&key=26181
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1940.png",More 4 UK
-http://vvn.neoredi.com/iptv/ch1940?code=113141163091679&key=34926
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2065.png",s4c_uk
-http://vvn.neoredi.com/iptv/ch2065?code=113141163091679&key=11503
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1827.png",S4cdigidol
-http://vvn.neoredi.com/iptv/ch1827?code=113141163091679&key=16809
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1835.png",CBS Reality
-http://vvn.neoredi.com/iptv/ch1835?code=113141163091679&key=20268
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1836.png",CBS Action
-http://vvn.neoredi.com/iptv/ch1836?code=113141163091679&key=15685
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1837.png",CBS Drama
-http://vvn.neoredi.com/iptv/ch1837?code=113141163091679&key=63916
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Food XP
-http://vvn.neoredi.com/iptv/ch1858?code=113141163091679&key=53542
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1896.png",5 Select
-http://vvn.neoredi.com/iptv/ch1896?code=113141163091679&key=55475
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1944.png",BEt UK
-http://vvn.neoredi.com/iptv/ch1944?code=113141163091679&key=33245
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1939.png",Comedy Central
-http://vvn.neoredi.com/iptv/ch1939?code=113141163091679&key=40455
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2066.png",Nick
-http://vvn.neoredi.com/iptv/ch2066?code=113141163091679&key=30556
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2067.png",Nicktoons
-http://vvn.neoredi.com/iptv/ch2067?code=113141163091679&key=25429
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2068.png",Paramount
-http://vvn.neoredi.com/iptv/ch2068?code=113141163091679&key=44458
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2069.png",Arirang
-http://vvn.neoredi.com/iptv/ch2069?code=113141163091679&key=15024
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2070.png",Bommerang
-http://vvn.neoredi.com/iptv/ch2070?code=113141163091679&key=57296
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2071.png",Boxnation
-http://vvn.neoredi.com/iptv/ch2071?code=113141163091679&key=12985
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2072.png",BT Sport ESPN
-http://vvn.neoredi.com/iptv/ch2072?code=113141163091679&key=19962
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2073.png",Caroonito
-http://vvn.neoredi.com/iptv/ch2073?code=113141163091679&key=19213
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2074.png",CGTN UK
-http://vvn.neoredi.com/iptv/ch2074?code=113141163091679&key=20439
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2075.png",Cartoon Net. UK
-http://vvn.neoredi.com/iptv/ch2075?code=113141163091679&key=52310
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2076.png",Discovery Turbo
-http://vvn.neoredi.com/iptv/ch2076?code=113141163091679&key=55278
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/2077.png",D. MAX UK
-http://vvn.neoredi.com/iptv/ch2077?code=113141163091679&key=63756
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1847.png",HGTV UK
-http://vvn.neoredi.com/iptv/ch1847?code=113141163091679&key=55068
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1846.png",Hillsong
-http://vvn.neoredi.com/iptv/ch1846?code=113141163091679&key=49930
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1842.png",Quest RED
-http://vvn.neoredi.com/iptv/ch1842?code=113141163091679&key=30989
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1822.png",Smith Sonian
-http://vvn.neoredi.com/iptv/ch1822?code=113141163091679&key=53534
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1815.png",Sony UK
-http://vvn.neoredi.com/iptv/ch1815?code=113141163091679&key=53441
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1818.png",Sony Action
-http://vvn.neoredi.com/iptv/ch1818?code=113141163091679&key=27691
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1848.png",Sony Classic
-http://vvn.neoredi.com/iptv/ch1848?code=113141163091679&key=38818
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1850.png",Sony Crime
-http://vvn.neoredi.com/iptv/ch1850?code=113141163091679&key=11965
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1851.png",TCM UK
-http://vvn.neoredi.com/iptv/ch1851?code=113141163091679&key=19372
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1853.png",Trace Latina
-http://vvn.neoredi.com/iptv/ch1853?code=113141163091679&key=24657
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1854.png",Trace Urban
-http://vvn.neoredi.com/iptv/ch1854?code=113141163091679&key=60818
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1856.png",Trace Vault
-http://vvn.neoredi.com/iptv/ch1856?code=113141163091679&key=17894
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1857.png",Travel XP
-http://vvn.neoredi.com/iptv/ch1857?code=113141163091679&key=31726
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/906.png",Animal Planet UK
-http://vvn.neoredi.com/iptv/ch906?code=113141163091679&key=25210
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/923.png",Discovery Science UK
-http://vvn.neoredi.com/iptv/ch923?code=113141163091679&key=40670
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/928.png",Discovery Showcase U
-http://vvn.neoredi.com/iptv/ch928?code=113141163091679&key=23087
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/934.png",Discovery History UK
-http://vvn.neoredi.com/iptv/ch934?code=113141163091679&key=34919
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1825.png",Discovery Ch. UK
-http://vvn.neoredi.com/iptv/ch1825?code=113141163091679&key=17816
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1819.png",Food Network UK
-http://vvn.neoredi.com/iptv/ch1819?code=113141163091679&key=60998
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
-http://vvn.neoredi.com/iptv/ch932?code=113141163091679&key=25531
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1817.png",Pop Max UK
-http://vvn.neoredi.com/iptv/ch1817?code=113141163091679&key=33133
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1936.png",Pop UK
-http://vvn.neoredi.com/iptv/ch1936?code=113141163091679&key=41472
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1893.png",Tiny Pop UK
-http://vvn.neoredi.com/iptv/ch1893?code=113141163091679&key=60063
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1945.png",Euronews UK
-http://vvn.neoredi.com/iptv/ch1945?code=113141163091679&key=48083
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1826.png",CNBC UK
-http://vvn.neoredi.com/iptv/ch1826?code=113141163091679&key=57547
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1943.png",Dave UK
-http://vvn.neoredi.com/iptv/ch1943?code=113141163091679&key=32652
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1942.png",Really UK
-http://vvn.neoredi.com/iptv/ch1942?code=113141163091679&key=28935
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1941.png",DRAMA UK
-http://vvn.neoredi.com/iptv/ch1941?code=113141163091679&key=21684
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1900.png",Bloomber UK
-http://vvn.neoredi.com/iptv/ch1900?code=113141163091679&key=62242
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1899.png",Quest UK
-http://vvn.neoredi.com/iptv/ch1899?code=113141163091679&key=15348
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1895.png",Yesterday UK
-http://vvn.neoredi.com/iptv/ch1895?code=113141163091679&key=42767
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1859.png",My channel UK
-http://vvn.neoredi.com/iptv/ch1859?code=113141163091679&key=11534
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1855.png",PBS America UK
-http://vvn.neoredi.com/iptv/ch1855?code=113141163091679&key=61489
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1849.png",Blaze UK
-http://vvn.neoredi.com/iptv/ch1849?code=113141163091679&key=13297
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1814.png",Showcase UK
-http://vvn.neoredi.com/iptv/ch1814?code=113141163091679&key=24715
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1811.png",TV-ONE UK
-http://vvn.neoredi.com/iptv/ch1811?code=113141163091679&key=51476
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/956.png",TLC UK
-http://vvn.neoredi.com/iptv/ch956?code=113141163091679&key=18318
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1823.png",Travel Ch. UK
-http://vvn.neoredi.com/iptv/ch1823?code=113141163091679&key=24161
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1839.png",Horror Ch. UK
-http://vvn.neoredi.com/iptv/ch1839?code=113141163091679&key=16147
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1840.png",ABN UK
-http://vvn.neoredi.com/iptv/ch1840?code=113141163091679&key=11478
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1841.png",Channels 24
-http://vvn.neoredi.com/iptv/ch1841?code=113141163091679&key=57931
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1935.png",Sky News UK
-http://vvn.neoredi.com/iptv/ch1935?code=113141163091679&key=45608
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
-http://vvn.neoredi.com/iptv/ch1053?code=113141163091679&key=42224
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-http://vvn.neoredi.com/iptv/ch922?code=113141163091679&key=18639
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-http://vvn.neoredi.com/iptv/ch937?code=113141163091679&key=55291
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-http://vvn.neoredi.com/iptv/ch914?code=113141163091679&key=32854
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-http://vvn.neoredi.com/iptv/ch915?code=113141163091679&key=27090
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-http://vvn.neoredi.com/iptv/ch916?code=113141163091679&key=19388
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
-http://vvn.neoredi.com/iptv/ch931?code=113141163091679&key=49683
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://vvn.neoredi.com/iptv/ch1828?code=113141163091679&key=29525
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-http://vvn.neoredi.com/iptv/ch1829?code=113141163091679&key=30468
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-http://vvn.neoredi.com/iptv/ch1830?code=113141163091679&key=50051
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
-http://vvn.neoredi.com/iptv/ch1831?code=113141163091679&key=48926
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
-http://vvn.neoredi.com/iptv/ch1832?code=113141163091679&key=37410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
-http://vvn.neoredi.com/iptv/ch1833?code=113141163091679&key=29147
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
-http://vvn.neoredi.com/iptv/ch1834?code=113141163091679&key=45863
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
-http://vvn.neoredi.com/iptv/ch930?code=113141163091679&key=35410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
-http://vvn.neoredi.com/iptv/ch929?code=113141163091679&key=23587
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
-http://vvn.neoredi.com/iptv/ch918?code=113141163091679&key=43917
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
-http://vvn.neoredi.com/iptv/ch1852?code=113141163091679&key=60708
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/927.png",Manchester Ud. TV
-http://vvn.neoredi.com/iptv/ch927?code=113141163091679&key=18859
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1700.png",Sony Movies UK
-http://vvn.neoredi.com/iptv/ch1700?code=113141163091679&key=39469
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1809.png",SKY One UK
-http://vvn.neoredi.com/iptv/ch1809?code=113141163091679&key=51819
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1810.png",SKY two UK
-http://vvn.neoredi.com/iptv/ch1810?code=113141163091679&key=20013
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1055.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch1055?code=113141163091679&key=59980
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1054.png",Sky Thriller UK
-http://vvn.neoredi.com/iptv/ch1054?code=113141163091679&key=10554
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/924.png",Sky Family UK
-http://vvn.neoredi.com/iptv/ch924?code=113141163091679&key=45328
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/919.png",Sky Comedy UK
-http://vvn.neoredi.com/iptv/ch919?code=113141163091679&key=16840
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/917.png",Sky Action UK
-http://vvn.neoredi.com/iptv/ch917?code=113141163091679&key=31231
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/909.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch909?code=113141163091679&key=35539
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/908.png",Sky Horror UK
-http://vvn.neoredi.com/iptv/ch908?code=113141163091679&key=34255
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/907.png",Sky Premiere UK
-http://vvn.neoredi.com/iptv/ch907?code=113141163091679&key=49291
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/925.png",Sky Living UK
-http://vvn.neoredi.com/iptv/ch925?code=113141163091679&key=55317
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/905.png",Fox UK
-http://vvn.neoredi.com/iptv/ch905?code=113141163091679&key=19369
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
-http://vvn.neoredi.com/iptv/ch936?code=113141163091679&key=56550
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
-http://vvn.neoredi.com/iptv/ch958?code=113141163091679&key=45903
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
-http://vvn.neoredi.com/iptv/ch1820?code=113141163091679&key=48171
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
-http://vvn.neoredi.com/iptv/ch912?code=113141163091679&key=62565
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
-http://vvn.neoredi.com/iptv/ch913?code=113141163091679&key=53921
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="News",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="",Akaal TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Al Hiwar
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="" group-title="",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="",BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://176.10.117.3:5000/play/a035
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Bloomberg TV
+https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",BOOMERANG
+http://193.33.39.108:8107/30710
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jKUX0C5.png" group-title="",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/D08YE04.jpg" group-title="",British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="",British Muslim TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Buffalo TV
+https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Wlv9PeF.jpg" group-title="",Canaf 54
+https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",DEEJAY TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",EURO SPORTS
+http://91.126.39.98:8086/udp/224.168.32.2:3202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/O8Mbaii.jpg" group-title="",Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Religious",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/s67amyk.png" group-title="",Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HUSTLER TV
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/K6lJed5.png" group-title="Shop",Ideal World
+https://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="",Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" group-title="",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/CCrojy8.jpg" group-title="",MATV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 (Backup)
+https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Original
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/x2OtGXV.png" group-title="",Pop MAX
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/yY70OOE.png" group-title="",Really
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",RT
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Local",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",SKY C1
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",SUB RANG
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV (Backup)
+https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
